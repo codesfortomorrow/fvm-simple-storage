@@ -91,7 +91,7 @@ function Welcome(props) {
           <div className='input-btn'>
             <input type="button" className='btn' onClick={searchNumber} value="Tell me Lucky Number" />
             <h5>
-              {(favNumber) ? `Luck Number : ${favNumber}` : ''}
+              {(favNumber) ? `Lucky Number : ${favNumber}` : ''}
             </h5>
           </div>
         </div>
