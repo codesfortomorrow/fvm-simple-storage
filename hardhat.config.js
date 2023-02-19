@@ -8,7 +8,7 @@ module.exports = {
     hyperspace: {
       chainId: 3141,
       url: "https://api.hyperspace.node.glif.io/rpc/v1",
-      accounts: ['86dcb7050642c0a6f8f4b18317cf257ecbdbaaf281bb8f99809a38b21adc78c3'],
+      accounts: ['20569c8e9f9cb6c459f9f869d4f0aaaa2f18fb4b7b147bcbe80c9a6763f9bd73'],
     },
   }
 };
