@@ -1,4 +1,4 @@
 export const dev = {
   ChainId: '3141',
-  SimpleStorage: '0x6Bfa757b740b7cee3EA6ac55bB9369881E164f48'
+  SimpleStorage: '0x8fbEB89383111AEF621ab402F8E03b8b8251E214'
 }
